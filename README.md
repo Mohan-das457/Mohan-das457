@@ -29,6 +29,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohan-das457/Mohan-das457/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 # 🛠️ Tech Stack
 
 <p align="center">
